@@ -1,0 +1,20 @@
+.dam{
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.863);
+    backdrop-filter: blur(2px);
+    display: flex;
+    margin: 60px;
+}
+
+.dan {
+    padding: 50px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+
+.damm{
+    border-radius: 5px;
+    width: 250px;
+    
+}
